@@ -1,4 +1,3 @@
-```md
 # Skylark Drones — Monday.com Business Intelligence Agent
 
 A founder-facing Business Intelligence (BI) agent that answers high-level business questions by reading **live data from monday.com boards** (Deals + Work Orders), cleaning messy real-world fields (missing values, inconsistent dates, timeline columns), computing KPIs, and returning an executive-style narrative with caveats.
